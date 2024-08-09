@@ -1,4 +1,4 @@
-<!--
+
 Hello there 👋
 
 I am Paul Mantello, an independent engineer and software developer with 10 years of experience.
@@ -10,7 +10,7 @@ Subsequently, I became a Technical Lead for Angular and Node.js and then a Lead 
 ![Static Badge](https://img.shields.io/badge/Typescript%20blue)
 
 
-
+<!--
 **PaulMant/PaulMant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
