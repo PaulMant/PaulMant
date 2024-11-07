@@ -1,8 +1,10 @@
 
 Hello there 👋
 
-I graduated with an engineering degree in computer science in 2014 from ISEN Toulon. 
-I have been working for 10 years with various major companies in the PACA region and around the world. 
+I graduated with an engineering degree in computer science in 2014 from ISEN Toulon.
+
+I have been working for 10 years with various major companies in the PACA region and around the world.
+
 I specialize in web development and act as a technical lead/Tech Lead on Angular, Node.js, and PHP. I have been a freelance engineer for 2 years and also work as a CTO in startups, helping them regain control over the technical side of their projects.
 
 ## My Tech Stack
